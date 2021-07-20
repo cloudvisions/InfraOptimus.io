@@ -5,7 +5,3 @@ You can see the [infra-heart](https://infra-heart.tistory.com/) to know informat
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### List
-
-```markdown
-Syntax highlighted code block
